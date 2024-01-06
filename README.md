@@ -35,12 +35,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-#ref-insta-app
-##Version
+# ref-insta-app
+## Version
 - Node JS v20.9.0
 - NPM v10.1.0
 - Next JS v14.0.4
-##USE
+## USE Dependencies
 - TypeScript
 - ESLint
 - Tailwind CSS
