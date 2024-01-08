@@ -45,3 +45,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - ESLint
 - Tailwind CSS
 - App Router
+### USE Laibraries & Components
+- Tailwind CSS <a href="https://tailwindcss.com/docs/guides/nextjs">Click Documentation</a>
+- Shadcn UI <a href="https://ui.shadcn.com/docs/installation/next">Click Documentation</a>
+
